@@ -1,0 +1,6 @@
+{
+  "name": "FlowMind",
+  "description": "FlowMind is a full-stack AI-powered productivity companion for students, professionals, and entrepreneurs to capture, structure, and optimize tasks naturally.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
